@@ -1,3 +1,5 @@
+# In this example, we calculated the insurance costs for two individuals, but with our new code we can easily extend this to thousands or even millions of individuals.
+
 # Create calculate_insurance_cost() function below: 
 
 
